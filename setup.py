@@ -7,5 +7,5 @@ setup(
    author='Man Foo',
    author_email='foomail@foo.example',
    packages=['foo'],  #same as name
-   install_requires=['wheel', 'bar', 'greek'], #external packages as dependencies
+   install_requires=['wheel', 'pandas'], #external packages as dependencies
 )
